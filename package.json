@@ -1,0 +1,26 @@
+{
+  "name": "user-management-system-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merima98/user-management-system-server.git"
+  },
+  "author": "Merima Ceranic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merima98/user-management-system-server/issues"
+  },
+  "homepage": "https://github.com/merima98/user-management-system-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

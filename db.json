@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$NjrqpTJR1DI1GKv8mUjxC.8.so3VCUc9b9bEtkPpFIDrC41/fp53a",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "username": "admin123",
+      "status": 1,
+      "permissionId": 1,
+      "id": 1
+    },
+    {
+      "email": "ammy@gmail.com",
+      "password": "$2a$10$teNqNyKI41Z13XS0lYrid.h4KS8cc7Jj.6UnAfkdO2nKUHDKuF5CK",
+      "firstName": "Ammy",
+      "lastName": "Tomphson",
+      "username": "ammy123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 2
+    },
+    {
+      "email": "tom@gmail.com",
+      "password": "$2a$10$SfXSMJ2duo1nPPGn9f7bFuPPbmwYtk1hX16VnXkKGCPxdtaB5sctK",
+      "firstName": "Tom",
+      "lastName": "Tomphson",
+      "username": "tomm123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 3
+    },
+    {
+      "email": "ella@gmail.com",
+      "password": "$2a$10$vwdZ4QuiRvl/HddG5a0cAOScaM4epDPywJeXVS4/3MiIIYrRxqwEu",
+      "firstName": "Ella",
+      "lastName": "Tomphson",
+      "username": "alla123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 4
+    },
+    {
+      "email": "eric@gmail.com",
+      "password": "$2a$10$9ILjunoCUMZyuZaiRGFJh.j9g3cGfiAQgo/mk0hQ04.fZB4rJ5b5i",
+      "firstName": "Eric",
+      "lastName": "Tomphson",
+      "username": "eric123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 5
+    },
+    {
+      "email": "robby@gmail.com",
+      "password": "$2a$10$//SQA3TqkjfnKUrFMDwyy.z5AwkgAv0/YroQmF0lQ8kG6QgeCj5U2",
+      "firstName": "Roberto",
+      "lastName": "Tomphson",
+      "username": "robby123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 6
+    },
+    {
+      "email": "gretta@gmail.com",
+      "password": "$2a$10$j3ZwKpEaQKDG/090f7t3huLiygLgHzATCMlHNZeqAgf7g10xeNXuW",
+      "firstName": "Gretta",
+      "lastName": "Tomphson",
+      "username": "gretta123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 7
+    },
+    {
+      "email": "samantha@gmail.com",
+      "password": "$2a$10$8YZ6n6j1FPnK8P7lSq9C0eeLJ8lxElPTN818G2BmcOHpmqhKsY2LG",
+      "firstName": "Samantha",
+      "lastName": "Tomphson",
+      "username": "samantha123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 8
+    },
+    {
+      "email": "justin@gmail.com",
+      "password": "$2a$10$qokeyLPwxWrs05GpE.PRe.cl3sQLnsBqVIWBNqfbK02IcZXQN4.Dy",
+      "firstName": "Justin",
+      "lastName": "Tomphson",
+      "username": "justin123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 9
+    },
+    {
+      "email": "simon@gmail.com",
+      "password": "$2a$10$wl0YkCrzAjLf94sEDm0esO/qXVE0iZzb2Kh0/02zJv1VRP5c.Mti6",
+      "firstName": "Simon",
+      "lastName": "Tomphson",
+      "username": "simon123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 10
+    },
+    {
+      "email": "patric@gmail.com",
+      "password": "$2a$10$fSgwfSsN9QYN7Kbqjqk7AOrbsSVP5/X9GXa3hdFmjb6fm/Xj1yUSO",
+      "firstName": "Patric",
+      "lastName": "Tomphson",
+      "username": "patric123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 11
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "description": "Admin"
+    },
+    {
+      "id": 2,
+      "description": "User"
+    }
+  ]
+}
