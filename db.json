@@ -21,36 +21,6 @@
       "id": 2
     },
     {
-      "email": "tom@gmail.com",
-      "password": "$2a$10$SfXSMJ2duo1nPPGn9f7bFuPPbmwYtk1hX16VnXkKGCPxdtaB5sctK",
-      "firstName": "Tom",
-      "lastName": "Tomphson",
-      "username": "tomm123",
-      "status": 1,
-      "permissionId": 2,
-      "id": 3
-    },
-    {
-      "email": "ella@gmail.com",
-      "password": "$2a$10$vwdZ4QuiRvl/HddG5a0cAOScaM4epDPywJeXVS4/3MiIIYrRxqwEu",
-      "firstName": "Ella",
-      "lastName": "Tomphson",
-      "username": "alla123",
-      "status": 1,
-      "permissionId": 2,
-      "id": 4
-    },
-    {
-      "email": "eric@gmail.com",
-      "password": "$2a$10$9ILjunoCUMZyuZaiRGFJh.j9g3cGfiAQgo/mk0hQ04.fZB4rJ5b5i",
-      "firstName": "Eric",
-      "lastName": "Tomphson",
-      "username": "eric123",
-      "status": 1,
-      "permissionId": 2,
-      "id": 5
-    },
-    {
       "email": "robby@gmail.com",
       "password": "$2a$10$//SQA3TqkjfnKUrFMDwyy.z5AwkgAv0/YroQmF0lQ8kG6QgeCj5U2",
       "firstName": "Roberto",
@@ -91,24 +61,174 @@
       "id": 9
     },
     {
-      "email": "simon@gmail.com",
-      "password": "$2a$10$wl0YkCrzAjLf94sEDm0esO/qXVE0iZzb2Kh0/02zJv1VRP5c.Mti6",
-      "firstName": "Simon",
-      "lastName": "Tomphson",
-      "username": "simon123",
+      "email": "miranda54@gmail.com",
+      "password": "$2a$10$GzLpS6z8iqtwzYhvrJ1cn.2czZ6hRhyGoYI57qhEvLsS2rfTNmZPO",
+      "firstName": "Miranda",
+      "username": "mirandajustice123",
+      "lastName": "Justice",
       "status": 1,
       "permissionId": 2,
-      "id": 10
+      "id": 12
     },
     {
-      "email": "patric@gmail.com",
-      "password": "$2a$10$fSgwfSsN9QYN7Kbqjqk7AOrbsSVP5/X9GXa3hdFmjb6fm/Xj1yUSO",
-      "firstName": "Patric",
-      "lastName": "Tomphson",
-      "username": "patric123",
+      "email": "l.pamela@gmail.com",
+      "password": "$2a$10$Pck/Imx9l38yxQnQuPWRJuH8UoOyOq0GeSxcFtATXdCei/8fWQl16",
+      "firstName": "Pamela",
+      "lastName": "Luis",
+      "username": "pamelal123",
+      "status": 0,
+      "permissionId": 2,
+      "id": 13
+    },
+    {
+      "email": "kobber123@gmail.com",
+      "password": "$2a$10$BFKc.3WQLq8kMiyWW/Mor.ALUW55uyJ8ZoR5Zx.OugfAoCzUSwL2C",
+      "firstName": "Kobbe",
+      "lastName": "Rice",
+      "username": "kobre32",
       "status": 1,
       "permissionId": 2,
-      "id": 11
+      "id": 14
+    },
+    {
+      "email": "zac55@gmail.com",
+      "password": "$2a$10$QvC0fsXKRDDReLIgUMv5RuTuHrl3SbDOeU43adjvrxzOYjZdI2XPG",
+      "firstName": "zac",
+      "lastName": "tenor",
+      "username": "zac985",
+      "status": 1,
+      "permissionId": 2,
+      "id": 15
+    },
+    {
+      "email": "teeoa32@gmail.com",
+      "password": "$2a$10$e1jCZ879ii56iRUQQKZ96eQ479oTMnOVeS8X4hQHZvw.929EgoP/6",
+      "firstName": "Teodhor",
+      "lastName": "American",
+      "username": "teeoa32",
+      "status": 1,
+      "permissionId": 2,
+      "id": 16
+    },
+    {
+      "email": "parertt@gmail.com",
+      "password": "$2a$10$On/Y4XwLngNsSXDOzt2ks.92SGxeyZ0d6UK47Tf8tXYFi8Dl2QXhi",
+      "firstName": "Paper",
+      "lastName": "Torino",
+      "username": "ptorino",
+      "status": 1,
+      "permissionId": 2,
+      "id": 17
+    },
+    {
+      "email": "mikep98@gmail.com",
+      "password": "$2a$10$4rYHsHxzcBaF3JI6iFA.3e.L1qfgw6n1oWoj/54VTAZZdHKfdduc2",
+      "firstName": "Mike",
+      "lastName": "Polo",
+      "username": "mikep98",
+      "status": 1,
+      "permissionId": 2,
+      "id": 18
+    },
+    {
+      "email": "paterson@gmail.com",
+      "password": "$2a$10$1GbyQ3iHdIuY4.27DGcBB.N4mEYzk79zu8e4dhyrP/t6s4J3psBhy",
+      "firstName": "Nicol",
+      "lastName": "Paterson",
+      "username": "nicol",
+      "status": 1,
+      "permissionId": 2,
+      "id": 19
+    },
+    {
+      "email": "sabgreek@gmail.com",
+      "password": "$2a$10$uPePchw/zSjRsqVxXMY8Je8t7ALagw/wjJYznmIBuaJ51oNFx3o7G",
+      "firstName": "Sabastian",
+      "lastName": "Greek",
+      "username": "sabgreek",
+      "status": 1,
+      "permissionId": 2,
+      "id": 20
+    },
+    {
+      "email": "luislopez@gmail.com",
+      "password": "$2a$10$MtsO5nMSmxliNGG0Z8evTuHTzNcq.WTV5h438f9Vtdk0iCB7e4fXO",
+      "firstName": "Luis",
+      "lastName": "Lopez",
+      "username": "luislopez",
+      "status": 1,
+      "permissionId": 2,
+      "id": 21
+    },
+    {
+      "email": "ronet123@gmail.com",
+      "password": "$2a$10$GbmHrSquINPy5kRGcmWujuNwYRUGRFW/IRtmGpLgH5SBHrY.U6V8.",
+      "firstName": "Maria",
+      "lastName": "Roner",
+      "username": "ronet123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 22
+    },
+    {
+      "email": "taniasun@gmail.com",
+      "password": "$2a$10$Orwk22nttsSD77t0Gcaq7e8vQFB11fLsN8wlhVm7QY7bsBj593pty",
+      "firstName": "Tania",
+      "lastName": "Sun",
+      "username": "taniasun",
+      "status": 1,
+      "permissionId": 2,
+      "id": 23
+    },
+    {
+      "email": "susannisan@gmail.com",
+      "password": "$2a$10$oKGj8AcLHM3qy2OTjj9BfuQybGwqvsIKsaAO8s6a828MfMASE8kFC",
+      "firstName": "Susan",
+      "lastName": "Nisan",
+      "username": "susannisan",
+      "status": 1,
+      "permissionId": 2,
+      "id": 24
+    },
+    {
+      "email": "taylort@gmail.com",
+      "password": "$2a$10$9f7nkMchKZB9WRlMKq9yn.z6HSBY5jaMdnDhPsrmZo8GikQPJZ.xa",
+      "firstName": "Taylor",
+      "lastName": "Timberlake",
+      "username": "taylort",
+      "status": 1,
+      "permissionId": 2,
+      "id": 25
+    },
+    {
+      "email": "romeosantos@gmail.com",
+      "password": "$2a$10$yzeNBAi4/oZTb4DZc5Nd/O6jPJiuRgezqa2AfJ3L.iqtUJw99H/3S",
+      "firstName": "Romeo",
+      "lastName": "Santos",
+      "username": "romeosantos",
+      "status": 1,
+      "permissionId": 2,
+      "id": 26
+    },
+    {
+      "email": "arminbauman@gmail.com",
+      "password": "$2a$10$xsKXTTXaonW2n.ea8rNlGOle5Io/iXil2E9VRSa2/cMzisXB99Bte",
+      "firstName": "Armin",
+      "lastName": "Bauman",
+      "username": "arminbauman",
+      "status": 1,
+      "permissionId": 2,
+      "id": 27
+    },
+    {
+      "email": "tinderrobby13@gmail.com",
+      "password": "$2a$10$tDmG22xV9Ujc1EfY6EFuFOKk.l5WDyHINeUsLAm7VcDK6bKmtEASm",
+      "firstName": "Tinder",
+      "lastName": "Robby",
+      "username": "tinderrobby13",
+      "status": 1,
+      "permissionId": 2,
+      "id": 28
     }
   ],
   "permissions": [
