@@ -249,6 +249,136 @@
       "status": 1,
       "permissionId": 2,
       "id": 31
+    },
+    {
+      "email": "filipo@gmail.com",
+      "password": "$2a$10$Xz8LfPNbFwavf0Jr0rAGs.Abgp.y0xLvt6MhNb7FJXw3bnxXCLDS6",
+      "firstName": "Filipo",
+      "lastName": "Tuck",
+      "username": "filipo123",
+      "status": 1,
+      "permissionId": 1,
+      "id": 32
+    },
+    {
+      "email": "john0.18586949646128081.doe@test.com",
+      "password": "$2a$10$qzG0YprKuV6pAiCRRAZtQeUoa8qhlTCmcCVE7EoxqM0.IRnIdNe6O",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 33
+    },
+    {
+      "email": "john0.9974423346219059.doe@test.com",
+      "password": "$2a$10$MIpp2G6gYu4ppZi.sw2IJeEOyQLFiVejUVueQ2vg5SnJP7y5CNS6y",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 34
+    },
+    {
+      "email": "john0.4480666619547613.doe@test.com",
+      "password": "$2a$10$CmAFz97wV8/moRcU9ebQIepad4RgACRH9/98fOl7qosIc2tjYYawO",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 35
+    },
+    {
+      "email": "john0.9173847321221653.doe@test.com",
+      "password": "$2a$10$0qWZEq2XzksGghqyEkZ26OFZ.tO9YniUmgdps/LqrXZaj0X8MlhUe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 36
+    },
+    {
+      "email": "john0.64540726443937.doe@test.com",
+      "password": "$2a$10$IV4dWGjGcxkB3BNXexZoW.Ki46dpz26xniVozB6RUGzQwGS5ygX1y",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 37
+    },
+    {
+      "email": "john0.19209416234918275.doe@test.com",
+      "password": "$2a$10$IAKtGeAXJ7gk0d8g/83C4OXwnpRjRKDmgQQwPRimhLRIMolLi9JUa",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 38
+    },
+    {
+      "email": "john0.8102413605684218.doe@test.com",
+      "password": "$2a$10$y3FdkSRBCPllwGXbQdkZ8uCu00ROhBU8tksB/7zdI5bs35qRL5Wl6",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 39
+    },
+    {
+      "email": "john0.3639373942843349.doe@test.com",
+      "password": "$2a$10$kfa6AZ5rDptGPdP6T22j9..5dGpBeTfudyMCm0gkpH2R0hKzucqG2",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 40
+    },
+    {
+      "email": "john0.4865788494013945.doe@test.com",
+      "password": "$2a$10$d98CPZ3zbVOe9ac3tJdc3.22XPI/ugEz/NBu2060CELsMeFSS80Ya",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 41
+    },
+    {
+      "email": "john0.7096782738861167.doe@test.com",
+      "password": "$2a$10$cj2RmwP9u40gDBWzODMD2O1ljgZO9VxKSIFgByHJLtoYXPNclI3pi",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 42
+    },
+    {
+      "email": "john0.8369483670093363.doe@test.com",
+      "password": "$2a$10$ktI0SAHsZpTKbesSzzhGlu7ij6x7AEDzRLj9vEKswjruDqYcBsXyW",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 43
+    },
+    {
+      "email": "john0.6286772114312726.doe@test.com",
+      "password": "$2a$10$tiFLr7bXaWh2lr7JoumHk.OGepqi7dnpDZxrGkCcb/WlyfVqIvogu",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "jDo3",
+      "status": 1,
+      "permissionId": 2,
+      "id": 44
     }
   ],
   "permissions": [
