@@ -21,16 +21,6 @@
       "id": 2
     },
     {
-      "email": "robby@gmail.com",
-      "password": "$2a$10$//SQA3TqkjfnKUrFMDwyy.z5AwkgAv0/YroQmF0lQ8kG6QgeCj5U2",
-      "firstName": "Roberto",
-      "lastName": "Tomphson",
-      "username": "robby123",
-      "status": 1,
-      "permissionId": 2,
-      "id": 6
-    },
-    {
       "email": "gretta@gmail.com",
       "password": "$2a$10$j3ZwKpEaQKDG/090f7t3huLiygLgHzATCMlHNZeqAgf7g10xeNXuW",
       "firstName": "Gretta",
@@ -229,6 +219,36 @@
       "status": 1,
       "permissionId": 2,
       "id": 28
+    },
+    {
+      "email": "merima@gmail.com",
+      "password": "$2a$10$7pTmPyIMsGUFyhL4Es0nqeLu2WwmWMDXk8khlItbRqZyY8m9dLcZW",
+      "firstName": "merima",
+      "lastName": "ceranic",
+      "username": "merima123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 29
+    },
+    {
+      "email": "mersiha@gmail.com",
+      "password": "$2a$10$rSU2QZg9NUjpQdI/gtbADu7/CqpqIuis8k3MrPsCD61HFkRmJI5RS",
+      "firstName": "Mersiha1",
+      "lastName": "Ceranic",
+      "username": "mersiha1996",
+      "status": 1,
+      "permissionId": 2,
+      "id": 30
+    },
+    {
+      "email": "roger123@gmail.com",
+      "password": "$2a$10$E6wlVkTt54xNEyXy3JeK7.7Lq9nHXTY39rAAuPKPeY6jhm1P14As.",
+      "firstName": "Roger",
+      "lastName": "Franklin",
+      "username": "roger123",
+      "status": 1,
+      "permissionId": 2,
+      "id": 31
     }
   ],
   "permissions": [
